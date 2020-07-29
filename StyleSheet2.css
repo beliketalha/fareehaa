@@ -1,0 +1,88 @@
+﻿*
+{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+body
+{
+	background: #efefef;
+	font family: sans scrif;
+}
+.profile-img
+{
+	width:40%;
+	float:right;
+}
+.profile-img img
+{
+	width:100%;
+	height:50%;
+}
+.about
+{
+	margin-left: 15px;
+}
+.profile-info
+{
+	width: 60%;
+	height: 100vh;
+	float: left;
+	padding: 0 30px;
+	over flow:scroll;
+	overflow-x: hidden;
+}
+.profile-info h1
+{
+	margin-top: 50px;
+	margin bottom: 30px;
+
+}
+.profile-info h2
+{
+	margin-top: 50px;
+	margin bottom: 15px;
+}
+.expertise
+{
+	display: inline-block;
+	width: 28% ;
+	padding: 30px 10px;
+	margin: 2%;
+	text align: center;
+	box-shadow:0 0 15px 1px rgba(37, 73, 214, 0.18);
+	background: #fff;
+}
+.expertise small
+{
+	padding.top: 10px;
+	display: block;
+}
+.education
+{
+	display: inline-block;
+	width: 28% ;
+	padding: 30px 10px;
+	margin: 2%;
+	text align: center;
+	box-shadow:0 0 15px 1px rgba(37, 73, 214, 0.18);
+	background: #fff;
+}
+.education small
+{
+	padding.top: 10px;
+	display: block;
+}
+.about
+{
+	margin-left: 15px;
+}
+.footer{
+    width: 100%;
+    height: 80px;
+    text-align: center;
+}
+.footer code{
+    
+    line-height: 80px;
+}
